@@ -1,1 +1,1 @@
-Something else in the first line
+A change in line 1
